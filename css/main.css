@@ -150,6 +150,12 @@ a {
     color: #ffffff;
 }
 
+#banner {
+    margin: 0 auto;
+    width: 1000px;
+    height: 340px;
+    background: url(../img/img03.png) no-repeat left bottom;
+}
 
 /* Page */
 #page {
@@ -322,12 +328,4 @@ a {
 
 #footer a {
     color: #5e5e5e;
-}
-
-
-#banner {
-    margin: 0 auto;
-    width: 1000px;
-    height: 340px;
-    background: url(../img/img03.png) no-repeat left bottom;
 }
