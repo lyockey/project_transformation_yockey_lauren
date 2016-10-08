@@ -7,7 +7,9 @@ body {
     color: #5b5b5b;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     margin: 0;
     padding: 0;
     text-transform: uppercase;
@@ -29,7 +31,9 @@ h3 {
     font-size: 1.6em;
 }
 
-p, ul, ol {
+p,
+ul,
+ol {
     margin-top: 0;
     line-height: 180%;
 }
@@ -139,7 +143,8 @@ a {
     border: none;
 }
 
-#menu a:hover, #menu .current_page_item a {
+#menu a:hover,
+#menu .current_page_item a {
     background: url(../img/img01.jpg) repeat;
     text-decoration: none;
     color: #ffffff;
