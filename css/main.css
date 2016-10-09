@@ -52,10 +52,6 @@ a {
 
 
 /* Header */
-#header-wrapper {
-    overflow: hidden;
-}
-
 #header {
     height: 150px;
     margin: 0 auto;
