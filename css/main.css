@@ -65,7 +65,6 @@ a {
 
 /* Logo */
 #logo {
-    float: left;
     width: 300px;
     margin: 0;
     padding: 0;
@@ -106,15 +105,11 @@ a {
 
 /* Menu */
 #menu {
-    float: right;
-    width: 500px;
-    height: 90px;
     margin: 0 auto;
     padding: 0;
 }
 
 #menu ul {
-    float: right;
     margin: 0;
     padding: 20px 0 0;
     list-style: none;
@@ -167,8 +162,6 @@ a {
 
 /* Content */
 #content {
-    float: right;
-    width: 660px;
     padding: 0;
 }
 
@@ -242,8 +235,6 @@ a {
 
 /* Sidebar */
 #sidebar {
-    float: left;
-    width: 270px;
     margin: 0;
     padding-top: 30px;
 }
