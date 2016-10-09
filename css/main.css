@@ -61,8 +61,7 @@ a {
 /* Logo */
 #logo {
     width: 300px;
-    margin: 0;
-    padding: 0;
+    margin-left: 20px;
     color: #ffffff;
 }
 
@@ -161,8 +160,7 @@ a {
 }
 
 .post {
-    overflow: hidden;
-    margin-bottom: 40px;
+    margin: 40px;
     border-bottom: 1px solid #e7ebed;
 }
 
@@ -230,7 +228,7 @@ a {
 
 /* Sidebar */
 #sidebar {
-    margin: 0;
+    margin: 0 40px;
     padding-top: 30px;
 }
 
