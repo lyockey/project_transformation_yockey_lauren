@@ -157,6 +157,11 @@ a {
     width: 100%;
 }
 
+.site-container {
+    max-width: 1000px;
+}
+
+
 /* Page */
 #page {
     margin: 0 auto;
@@ -302,7 +307,6 @@ a {
 
 /* Footer */
 #footer {
-    height: 140px;
     margin: 0 auto;
     padding: 50px 0 15px 0;
     font-family: 'Abel', sans-serif;
