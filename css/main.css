@@ -152,9 +152,12 @@ a {
 
 #banner {
     margin: 0 auto;
-    width: 1000px;
-    height: 340px;
     background: url(../img/img03.png) no-repeat left bottom;
+}
+
+#banner img {
+    height: auto;
+    width: 100%;
 }
 
 /* Page */
