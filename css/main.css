@@ -144,6 +144,13 @@ a {
     color: #ffffff;
 }
 
+@media all and (min-width: 750px) {
+    #menu li {
+        display: inline-block;
+        width: calc(100% / 5);
+    }
+}
+
 #banner {
     margin: 0 auto;
     background: url(../img/img03.png) no-repeat left bottom;
