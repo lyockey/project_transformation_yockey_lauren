@@ -59,6 +59,12 @@ a {
     margin: 0 auto;
 }
 
+.group::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
 
 /* Header */
 #header {
