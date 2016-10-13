@@ -105,6 +105,11 @@ a {
     color: #000000;
 }
 
+@media (min-width: 1000px) {
+    #logo {
+        margin-left: 0;
+    }
+}
 
 /* Menu */
 #menu {
