@@ -190,8 +190,12 @@ a {
 }
 
 .post {
-    margin: 40px;
+    padding: 0 1.5em 1em;
     border-bottom: 1px solid #e7ebed;
+}
+
+.post + .post {
+    margin-top: 1.5em;
 }
 
 .post .title {
