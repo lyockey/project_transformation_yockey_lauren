@@ -242,10 +242,21 @@ a {
     text-decoration: none;
 }
 
+@media (min-width: 1000px) {
+    #content {
+        float: right;
+        margin-left: 1.5em;
+        width: calc(100% / 3 * 2);
+    }
+
+    #sidebar {
+        float: left;
+        width: calc(100% / 3 - 1.5em);
+    }
+}
 
 /* Sidebar */
 #sidebar {
-    margin: 0 40px;
     padding-top: 30px;
 }
 
