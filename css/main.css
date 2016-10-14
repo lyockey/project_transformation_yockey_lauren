@@ -76,7 +76,7 @@ a {
 /* Logo */
 #logo {
     width: 300px;
-    margin-left: 20px;
+    margin-left: 1.5em;
     color: #ffffff;
 }
 
@@ -124,12 +124,12 @@ a {
 }
 
 #menu li {
-    padding: 5px 0;
+    padding: 0.25em 0;
 }
 
 #menu ul {
     margin: 0;
-    padding: 20px 0 0;
+    padding: 2em 0 0;
     list-style: none;
     line-height: normal;
 }
@@ -180,7 +180,7 @@ a {
 /* Page */
 #page {
     margin: 0 auto;
-    padding: 30px 0;
+    padding: 2em 0;
 }
 
 
@@ -199,7 +199,7 @@ a {
 }
 
 .post .title {
-    padding-top: 7px;
+    padding-top: 0.5em;
     letter-spacing: -1px;
 }
 
@@ -210,11 +210,11 @@ a {
 }
 
 .post .meta {
-    margin-bottom: 30px;
-    padding-top: 10px;
+    margin-bottom: 2em;
+    padding-top: 1.3em;
     text-align: left;
     font-family: 'Abel', sans-serif;
-    font-size: 16px;
+    font-size: 1em;
     font-weight: 300;
 }
 
@@ -227,20 +227,20 @@ a {
 }
 
 .post .entry {
-    padding-bottom: 40px;
+    padding-bottom: 3em;
     text-align: justify;
 }
 
 .links {
-    padding-top: 20px;
-    margin-bottom: 30px;
+    padding-top: 1.5em;
+    margin-bottom: 2em;
 }
 
 .more {
     display: block;
     float: left;
-    padding: 5px 5px;
-    margin-right: 10px;
+    padding: 0.5em 0.5em;
+    margin-right: 0.5em;
     background: #222222;
     color: #ffffff;
     text-align: center;
@@ -250,7 +250,7 @@ a {
 .comments {
     display: block;
     float: left;
-    padding: 5px 5px;
+    padding: 0.5em 0.5em;
     background: #222222;
     color: #ffffff;
     text-align: center;
@@ -272,7 +272,7 @@ a {
 
 /* Sidebar */
 #sidebar {
-    padding-top: 30px;
+    padding: 2.5em 0 0 4em;
 }
 
 #sidebar ul {
@@ -288,7 +288,7 @@ a {
 
 #sidebar section ul {
     margin: 0;
-    padding-bottom: 30px;
+    padding-bottom: 2.5em;
 }
 
 #sidebar section li {
@@ -298,30 +298,16 @@ a {
     border-left: none;
 }
 
-#sidebar section li span {
-    display: block;
-    margin-top: -20px;
-    padding: 0;
-    font-size: 11px;
-    font-style: italic;
-}
-
 #sidebar section li a {
-    padding-left: 20px;
+    padding-left: 1.5em;
     background: url(../img/img04.jpg) no-repeat left 50%;
 }
 
 #sidebar h2 {
-    padding-bottom: 30px;
+    padding-bottom: 1em;
     letter-spacing: -0.5px;
     font-size: 1.8em;
     color: #222222;
-}
-
-#sidebar p {
-    margin: 0;
-    padding: 0 30px 20px;
-    text-align: justify;
 }
 
 #sidebar a {
@@ -336,16 +322,15 @@ a {
 /* Footer */
 #footer {
     margin: 0 auto;
-    padding: 50px 0 50px 0;
+    padding: 4em 0 4em 0;
     font-family: 'Abel', sans-serif;
 }
 
 #footer p {
     margin: 0;
-    padding-top: 10px;
     letter-spacing: 1px;
     line-height: normal;
-    font-size: 14px;
+    font-size: 0.9em;
     text-transform: uppercase;
     text-align: center;
     color: #5e5e5e;
