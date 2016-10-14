@@ -5,7 +5,7 @@ Advanced Web 2 - Friday, October 14, 2016
 
 * [GitHub Repo](https://github.com/lyockey/project_transformation_yockey_lauren.git)
 
-* [Project on Site Host](laurenyockey.com/project_transformation_yockey_lauren/)
+* [Project on Site Host](laurenyockey.com/adv_web_2/project_transformation_yockey_lauren/)
 
 * [W3C HTML Validator]()
 
