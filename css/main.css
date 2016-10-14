@@ -32,12 +32,19 @@ h1 {
     font-size: 2em;
 }
 
-h2 {
-    font-size: 2.8em;
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
 }
 
 h3 {
-    font-size: 1.6em;
+    font-size: 2.8em;
 }
 
 p,
@@ -303,7 +310,7 @@ a {
     background: url(../img/img04.jpg) no-repeat left 50%;
 }
 
-#sidebar h2 {
+#sidebar h3 {
     padding-bottom: 1em;
     letter-spacing: -0.5px;
     font-size: 1.8em;
